@@ -1,0 +1,99 @@
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a418981"), 
+    "template" : {
+        "creditName" : "Berkshire", 
+        "state" : "Florida", 
+        "fiscal_year_end" : "October", 
+        "bloomberg_equity_ticker" : "deleniti"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a418982"), 
+    "template" : {
+        "creditName" : "Cambridgeshire", 
+        "state" : "Kansas", 
+        "fiscal_year_end" : "October", 
+        "bloomberg_equity_ticker" : "laudantium"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a418983"), 
+    "template" : {
+        "creditName" : "Borders", 
+        "state" : "Arizona", 
+        "fiscal_year_end" : "December", 
+        "bloomberg_equity_ticker" : "a"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a418984"), 
+    "template" : {
+        "creditName" : "Avon", 
+        "state" : "Kentucky", 
+        "fiscal_year_end" : "September", 
+        "bloomberg_equity_ticker" : "fugiat"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a418985"), 
+    "template" : {
+        "creditName" : "Buckinghamshire", 
+        "state" : "Ohio", 
+        "fiscal_year_end" : "March", 
+        "bloomberg_equity_ticker" : "cumque"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a418986"), 
+    "template" : {
+        "creditName" : "Berkshire", 
+        "state" : "Minnesota", 
+        "fiscal_year_end" : "February", 
+        "bloomberg_equity_ticker" : "quas"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a418987"), 
+    "template" : {
+        "creditName" : "Buckinghamshire", 
+        "state" : "Oklahoma", 
+        "fiscal_year_end" : "September", 
+        "bloomberg_equity_ticker" : "dolorem"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a418988"), 
+    "template" : {
+        "creditName" : "Borders", 
+        "state" : "Tennessee", 
+        "fiscal_year_end" : "December", 
+        "bloomberg_equity_ticker" : "est"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a418989"), 
+    "template" : {
+        "creditName" : "Buckinghamshire", 
+        "state" : "Iowa", 
+        "fiscal_year_end" : "August", 
+        "bloomberg_equity_ticker" : "illo"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a41898a"), 
+    "template" : {
+        "creditName" : "Buckinghamshire", 
+        "state" : "California", 
+        "fiscal_year_end" : "January", 
+        "bloomberg_equity_ticker" : "saepe"
+    }
+}
+{ 
+    "_id" : ObjectId("592a3dae6a00b2849a41898b"), 
+    "template" : {
+        "creditName" : "Buckinghamshire", 
+        "state" : "Michigan", 
+        "fiscal_year_end" : "October", 
+        "bloomberg_equity_ticker" : "et"
+    }
+}

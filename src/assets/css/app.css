@@ -1,0 +1,32 @@
+.app-button {
+	position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    z-index: 1;
+    will-change: opacity, transform;
+    transition: .3s ease-out;
+}
+
+.card-action {
+    position: relative;
+}
+
+.upload-file {
+    z-index: 0;
+    padding: 10px 20px;
+    border: 2px outset #86685e;
+}
+.input-file {
+    position: absolute;
+    top: 0;
+    opacity: 0;
+    width: 322px;
+    height: 100%;
+}
